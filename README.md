@@ -9,9 +9,7 @@
 
 ### Connect with me:
 
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/alvin-ruan)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/alvin-ruan#gh-dark-mode-only)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alvin-ruan)
 
 ### Languages and Tools:
 
