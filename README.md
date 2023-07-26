@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🤝 I’m looking connect and grow my network!
 - 💡 I'm an INTP and proud!
-- 🥅 2023 Goals: Learn to improve my sales skills.
+- 🥅 2023 Goals: Learn to improve my interpersonal & sales skills.
 - ⚡ Fun fact: I always had a love for magic 🎴, so much that I've learned a bit of mentalism myself!
 
 ### Connect with me:
