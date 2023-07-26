@@ -3,9 +3,9 @@
 ## I'm a Developer 💻, Cat Dad 😺, Real Estate Investor 🏡, and a Student of Life 👨‍🎓!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking connect and grow my network!
+- 🤝 I’m looking connect and grow my network!
 - 🥅 2023 Goals: Learn to improve my sales skills.
-- ⚡ Fun fact: I always had a love for magic, so much that I've learned a bit of mentalism myself!
+- ⚡ Fun fact: I always had a love for magic 🎴, so much that I've learned a bit of mentalism myself!
 
 ### Connect with me:
 
