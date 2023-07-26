@@ -1,6 +1,6 @@
 # Hi there, I'm Alvin Ruan.
 
-## I'm a Developer, Cat Dad, Real Estate Investor, and a Student of Life!
+## I'm a Developer 💻, Cat Dad 😺, Real Estate Investor 🏡, and a Student of Life 👨‍🎓!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking connect and grow my network!
