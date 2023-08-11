@@ -44,5 +44,5 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 <a href="https://github.com/roxiomontes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinruan&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinruan&layout=compact&theme=default" />
 </a><br>
